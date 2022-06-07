@@ -25,8 +25,8 @@ return a * b
 ## **Work experience:**
 No front-end development experience.
 ## **Education and courses:**
-1. JavaScript/Front-end. Stage 0 RSSchool
-2. Video course on Youtube GitHub for beginners Bogdan Stashchuk
-## **Language**
+* JavaScript/Front-end. Stage 0 RSSchool
+* Video course on Youtube GitHub for beginners Bogdan Stashchuk
+## **Language:**
 *  Russian - Native
 *  English - A1
