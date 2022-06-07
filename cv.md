@@ -1,7 +1,7 @@
 #  **Kuznetsov Aleksandr**
 ----
 ## **Contacts:**
-### **Phone:** +79206561716
+### **Phone:** +79206561715
 ### **E-mail:** Alex80.80@inbox.ru
 ### **GitHub:** Nomad-Yar
 ### **Discord:** Alex80
