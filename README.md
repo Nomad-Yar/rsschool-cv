@@ -1,1 +1,1 @@
-<https://NOMAD-YAR.github.io/rsschool-cv/
+<https://NOMAD-YAR.github.io/rsschool-cv/>
